@@ -1,7 +1,7 @@
 
-Deze tekening hoort bij een filmpje op
+Deze sjabloon voor een evenement-situatietekening hoort bij een filmpje op
 
-www.youtube.com/watch?v=XUFZTYOJiEE
+https://youtu.be/QHEIJMdJ2Kc
 
 Het filmpje toont hoe een evenement-situatietekening te maken met:
 
@@ -12,12 +12,8 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
     - data.amsterdam.nl: https://data.amsterdam.nl/data/geozoek/
 - en het gratis programma Ink-Scape (www.inkscape.org).
 
-Deze tekening is een bijgewerkte versie van de 'filmtekening'.
+Deze tekening is 
+Versie 2023 0424,
+een bijgewerkte versie van de 'filmtekening'.
 
-Versie 2023 0112
 
-Wat een ideale sjabloon is voor een snel te maken, snel leesbare, volledige, reële situatietekening, dat inzicht schrijdt voort. Er komen vast updates, toevoegingen andere inzichten etc.
-
-Daarom staat deze tekening en eventuele updates of voortborduringen op:
-
-https://github.com/Situatietekening/Situatietekening
