@@ -5,8 +5,8 @@ https://youtu.be/QHEIJMdJ2Kc
 
 Het filmpje toont hoe een evenement-situatietekening te maken met:
 
-- dit sjabloon van een fictief evenement,
-- een ondergrond van bijvoorbeeld
+- dit sjabloon,
+- een basiskaart van bijvoorbeeld
     - PDOK.nl: de vectortile-viewer op https://app.pdok.nl/vectortile-viewer/
     - Cadcollege.nl: een png met bomen, lantaarnpalen etc: https://www.cadcollege.nl/CADTools/Conversie/Kaarten_AutoCAD_kadaster.htm
     - data.amsterdam.nl: https://data.amsterdam.nl/data/geozoek/
