@@ -1,5 +1,6 @@
-Deze Github-pagina bevat:
-Een sjabloon voor een evenement-situatietekening
+www.Github.com/Situatietekening/Situatietekening 
+een sjabloon voor een evenement-situatietekening
+
 Er hoort bij een filmpje op https://youtu.be/QHEIJMdJ2Kc
 
 Het filmpje toont hoe een evenement-situatietekening te maken met:
@@ -16,5 +17,6 @@ Deze tekening is
 Versie 2023 0424,
 een bijgewerkte versie van de 'filmtekening'.
 
-
+www.Github.com/Situatietekening/In-Excel
+Bevat een youtube-filmpje over een situatietekening in Microsoft Excel
 
