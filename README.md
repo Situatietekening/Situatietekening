@@ -23,7 +23,7 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
 Deze tekening is Versie 2023 0424,
 een bijgewerkte versie van de 'filmtekening'.
 
-De bestanden kun je ingepakt in een zip-bestand downloaden met de groene <code>-knop.
+De bestanden kun je ingepakt in een zip-bestand downloaden met de groene CODE-knop.
  
  
 Natuurlijk hoef je niet per se een gratis programma te downloaden, het kan ook met Excel of Powerpoint:
