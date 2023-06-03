@@ -1,5 +1,5 @@
 www.Github.com/Situatietekening/Situatietekening 
- bevat een sjabloon voor een evenement-situatietekening, te gebruiken in een tekenprogramma als Ink-scape.
+ bevat een sjabloon voor een evenement-situatietekening, te gebruiken in het gratis tekenprogramma Inkscape.
  InkScape is een vector-tekenprogramma: Een plaatje bestaat niet uit heel veel pixels, maar uit punten die met lijnen ('vectoren') verbonden zijn.
 
 +  Alles wat je tekent blijft altijd wijzigbaar
@@ -20,8 +20,14 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
     - data.amsterdam.nl: https://data.amsterdam.nl/data/geozoek/
     - www.afstandmeten.nl
 
-Deze tekening is Versie 2023 0424,
-een bijgewerkte versie van de 'filmtekening'.
+op www.Github.com/Situatietekening/Situatietekening  vind je:
+= een actuele set: Set20230603
+- enkele voorbeelden van de tekeningen die kunnen worden gemaakt:
+   - de bestaande situatie waarop het evenement moet worden afgestemd
+   - de Publieksplattegrond
+   - de Voorzieningen die daarvoor moeten worden ingezet
+   - een Verkeerstekening
+- voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
 
 De bestanden kun je ingepakt in een zip-bestand downloaden met de groene CODE-knop.
  
