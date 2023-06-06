@@ -29,9 +29,9 @@ op www.Github.com/Situatietekening/Situatietekening  vind je:
    - een Verkeerstekening
 - voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
 
-De bestanden staan in de opslagplaatsen, 'repository' voor Github. Je kunt ze ingepakt in een zip-bestand downloaden met de groene CODE-knop. 
+De bestanden staan in de opslagplaatsen, 'repositories' voor Github. Je kunt ze ingepakt in een zip-bestand downloaden met de groene CODE-knop. Programmeer-code is wat er het meest gedeeld wordt op Github. Ook een Inkscape-bestand bestaat uit code.
 
- 
-Natuurlijk hoef je niet per se een gratis programma te downloaden, het kan ook met Excel of Powerpoint:
-www.Github.com/Situatietekening/In-Excel bevat een youtube-filmpje over een situatietekening in Microsoft Excel.
+
+Natuurlijk hoef je niet per se een gratis programma te downloaden, tekenen kan ook met Excel of Powerpoint:
+www.Github.com/Situatietekening/In-Excel bevat een link naar youtube-filmpje over een situatietekening in Microsoft Excel.
 
