@@ -36,3 +36,5 @@ Programmeer-code is nu eenmaal wat er het meest gedeeld wordt op Github.
 Natuurlijk hoef je niet per se een gratis programma te downloaden, tekenen kan ook met Excel of Powerpoint:
 www.Github.com/Situatietekening/In-Excel bevat een link naar youtube-filmpje over een situatietekening in Microsoft Excel.
 
+
+Als je dit met plezier gebruikt: geef het een ster!
