@@ -7,7 +7,7 @@ www.Github.com/Situatietekening/Situatietekening
 +  Door in lagen te werken kun je het overzichtelijk houden
 
 
-Er hoort bij een filmpje op https://youtu.be/QHEIJMdJ2Kc
+Er hoort een filmpje bij op https://youtu.be/QHEIJMdJ2Kc
 
 Het filmpje toont hoe een evenement-situatietekening te maken met:
 - dit sjabloon,
@@ -21,12 +21,12 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
     - www.afstandmeten.nl
 
 op www.Github.com/Situatietekening/Situatietekening  vind je:
-= een actuele set: Set20230603
+- een actuele set: Set2023 0625
 - enkele voorbeelden van de tekeningen die kunnen worden gemaakt:
-   - de bestaande situatie waarop het evenement moet worden afgestemd
-   - de Publieksplattegrond
-   - de Voorzieningen die daarvoor moeten worden ingezet
-   - een Verkeerstekening
+- de bestaande situatie waarop het evenement moet worden afgestemd
+- de Publieksplattegrond
+- de Voorzieningen die daarvoor moeten worden ingezet
+- een Verkeerstekening
 - voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
 
 De bestanden staan in de opslagplaatsen, 'repositories' voor Github. Je kunt ze ingepakt in een zip-bestand downloaden met de groene CODE-knop. 
