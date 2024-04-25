@@ -21,13 +21,13 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
     - www.afstandmeten.nl
 
 op www.Github.com/Situatietekening/Situatietekening  vind je:
-- een actuele set: Set2023 0625
+- een actuele set: Sittek Sjabloon Situatietekening Set<datum>
 - enkele voorbeelden van de tekeningen die kunnen worden gemaakt:
-- de bestaande situatie waarop het evenement moet worden afgestemd
-- de Publieksplattegrond
-- de Voorzieningen die daarvoor moeten worden ingezet
-- een Verkeerstekening
-- voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
+  - de bestaande situatie waarop het evenement moet worden afgestemd
+  - de Publieksplattegrond
+  - de Voorzieningen die daarvoor moeten worden ingezet
+  - een Verkeerstekening
+  - voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
 
 De bestanden staan in de opslagplaatsen, 'repositories' voor Github. Je kunt ze ingepakt in een zip-bestand downloaden met de groene CODE-knop. 
 Programmeer-code is nu eenmaal wat er het meest gedeeld wordt op Github. 
