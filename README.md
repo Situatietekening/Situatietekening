@@ -15,7 +15,7 @@ Het filmpje toont hoe een evenement-situatietekening te maken met:
 - en een basiskaart van bijvoorbeeld
     - PDOK.nl: de vectortile-viewer op https://app.pdok.nl/vectortile-viewer
     - PDOK.nl: de viewer is minder gedetailleerd, maar biedt heel veel extra lagen: https://app.pdok.nl/viewer
-    - Cadcollege.nl: een png met bomen, lantaarnpalen etc: https://www.cadcollege.nl/CADTools/Conversie/Kaarten_AutoCAD_kadaster.htm
+    - Cadcollege.nl: een png of dxf-bestand met bomen, lantaarnpalen etc: https://www.cadcollege.nl/CADTools/Conversie/Kaarten_AutoCAD_kadaster.htm
     - De gemeente Helmond biedt een uitstekende basiskaart, ook voor buiten Helmond: https://kaarten.helmond.nl/?@APV%20vergunningen#
     - data.amsterdam.nl: https://data.amsterdam.nl/data/geozoek/
     - www.afstandmeten.nl
@@ -30,7 +30,7 @@ op www.Github.com/Situatietekening/Situatietekening  vind je:
   - voor wie de filmset nog eens wil terugzien: een bijgewerkte versie van de 'filmtekening'.
 
 De bestanden staan in de opslagplaatsen, 'repositories' voor Github. Je kunt ze ingepakt in een zip-bestand downloaden met de groene CODE-knop. 
-Programmeer-code is nu eenmaal wat er het meest gedeeld wordt op Github. 
+Programmeer-CODE is nu eenmaal wat er het meest gedeeld wordt op Github. 
 
 
 Natuurlijk hoef je niet per se een gratis programma te downloaden, tekenen kan ook met Excel of Powerpoint:
